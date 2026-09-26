@@ -1,0 +1,55 @@
+{
+  "00-warning": "\u2026",
+  "0-legal-notice": "\u2026",
+  "job-count": 3,
+  "total-job-count": 3,
+  "jobs": [
+    {
+      "id": 1001,
+      "url": "https://remotive.com/remote-jobs/data/part-time-data-analyst-1001",
+      "title": "Part-time Data Analyst",
+      "company_name": "Acme Analytics",
+      "category": "Data Analysis",
+      "tags": [
+        "sql",
+        "tableau"
+      ],
+      "job_type": "part_time",
+      "publication_date": "2026-09-21T12:55:11",
+      "candidate_required_location": "USA",
+      "salary": "$60/hr",
+      "description": "<p>Build Tableau dashboards on our Oracle warehouse, ~10 h/week.</p>"
+    },
+    {
+      "id": 1002,
+      "url": "https://remotive.com/remote-jobs/data/freelance-bi-developer-1002",
+      "title": "Freelance BI Developer",
+      "company_name": "EuroData GmbH",
+      "category": "Data Analysis",
+      "tags": [
+        "power bi"
+      ],
+      "job_type": "freelance",
+      "publication_date": "2026-09-20T09:00:00",
+      "candidate_required_location": "Europe",
+      "salary": "",
+      "description": "<p>Must be based in the EU.</p>"
+    },
+    {
+      "id": 1003,
+      "url": "https://remotive.com/remote-jobs/data/contract-sql-analyst-1003",
+      "title": "Contract SQL Analyst",
+      "company_name": "Globex",
+      "category": "Data Analysis",
+      "tags": [
+        "sql",
+        "python"
+      ],
+      "job_type": "contract",
+      "publication_date": "2026-09-19T15:30:00",
+      "candidate_required_location": "Worldwide",
+      "salary": "",
+      "description": "<p>Async contract. Apply by emailing jobs@globex.example.</p>"
+    }
+  ]
+}

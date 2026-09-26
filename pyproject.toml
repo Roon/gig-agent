@@ -1,0 +1,19 @@
+[project]
+name = "gig-agent"
+version = "0.1.0"
+description = "Finds, drafts and submits part-time data-analysis gigs"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/gig_agent"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
